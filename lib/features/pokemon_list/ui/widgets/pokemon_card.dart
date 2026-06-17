@@ -78,15 +78,15 @@ class PokemonCard extends StatelessWidget {
                 ),
               ),
             ),
-            Positioned(
-              top: 6,
-              right: 6,
-              child: Icon(
-                Icons.star_border,
-                color: Colors.grey.withAlpha((0.6 * 255).toInt()),
-                size: 18,
-              ),
-            ),
+            //Positioned(
+             // top: 6,
+              //right: 6,
+              //child: Icon(
+               // Icons.star_border,
+                //color: Colors.grey.withAlpha((0.6 * 255).toInt()),
+                //size: 18,
+              //),
+            //),
           ],
         ),
       ),
